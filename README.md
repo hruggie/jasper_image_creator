@@ -7,5 +7,5 @@
 https://taipy.io/
 https://aistudio.google.com/prompts/new_chat
 
-!["Brother Jasper Around the World"](BrotherJ.PNG)
+!["Brother Jasper Around the World"](Capture.PNG)
 
